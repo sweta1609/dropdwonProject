@@ -1,25 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import Dropdown from "./component/Dropdown";
+
+
 
 function App() {
+  // options (created for dropdown select)
+  const options=[
+    {value:'React',label:'ReactJs'},
+    {value:"Javascript",label:"Javascript"},
+    {value:"html",label:"HTML5"},
+    {value:"css",label:"CSS3"}
+  ]
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* heading */}
+      <h1 style={styles.heading}>Should you use a dropdown?</h1>
+      {/* dropdown component */}
+      <Dropdown placeholder="Select...." options={options}/>
     </div>
   );
 }
 
 export default App;
+
+// styling component
+const styles={
+  heading:{
+    height:"30%",
+    width:"35%",
+    marginLeft:"33%",
+    marginTop:"15%"
+  }
+}
+
+
