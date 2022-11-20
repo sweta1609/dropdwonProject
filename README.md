@@ -5,12 +5,10 @@
 
 
 ## <img src="https://www.pngitem.com/pimgs/m/164-1644036_business-icons-vol-introduction-icon-hd-png-download.png" height="50" width="50"> *Introduction*
-This is Full Stack Todo List Application project ,built using the MongoDB, NodeJS, ExpressJS, CSS, Javascript. It implements all the basic functionalities of a todo list, i.e,Create,Read,Update,Delete.
+This project is created using React it helps you in selecting options from list. 
 
 <ul>
- <li>You can Create new tasks</li>
- <li>You can Delete tasks</li>
- <li>Tasks can be added into different categories</li>
+ <li>You can Select Task from List</li>
 </ul>
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5g17v0fgUueSLLnMHG0_E3twOYt1Y1U8-g&usqp=CAU" height="50" width="50">*Languages Used*
