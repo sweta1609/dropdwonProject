@@ -12,6 +12,8 @@ This project is created using React it helps you in selecting options from list.
 </ul>
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5g17v0fgUueSLLnMHG0_E3twOYt1Y1U8-g&usqp=CAU" height="50" width="50">*Languages Used*
+<img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" height="200px" width="200px">
+<img src="https://img.freepik.com/premium-vector/modern-flat-design-xml-file-icon-web-simple-style_599062-556.jpg?w=2000" height="200px" width="200px">
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4__Lyi4lFZc-uEuIPnfHSydH0gbwcakKD_A&usqp=CAU" height="50" width="50"> *Tools Used*
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuk5Ol6GiJmqH-eV-PP49qY8BTBGjxHFjPPOeTTRH8IquI5kASz-n2I4_ekKGbbjn-63Y&usqp=CAU">
